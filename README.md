@@ -2,7 +2,7 @@
 
 # Hey, I'm dopenclean(Mahdi)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator;Turning+Noise+into+Signal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator" alt="Typing SVG" />
 
 <br/>
 
@@ -225,8 +225,8 @@ I'm always interested in collaborating on innovative projects, especially in **W
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-support@wowfi.xyz-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@wowfi.xyz)
-[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6uh25VJzyP)
+[![Email](https://img.shields.io/badge/Email-dopenclean@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@wowfi.xyz)
+[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/581843365562155009)
 [![Twitter](https://img.shields.io/badge/Twitter-@wowfixyz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wowfixyz)
 
 </div>
