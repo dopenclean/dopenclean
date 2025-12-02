@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm dopenclean(Mahdi)
+# Hey, I'm Mahdi(dopenclean)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Currently Building
 
-### **[WowFi](https://app.wowfi.xyz)** - AI-Stacked Crypto Intelligence Platform
+### **[WowFi](https://app.wowfi.xyz)** - AI-Stacked Info Aggregator
 
 > **Cutting through the noise in crypto markets with institutional-grade analysis, free for everyone.**
 
@@ -48,14 +48,14 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 ```javascript
 const dopenclean = {
     primary: ["Web Development", "Web3 Development", "Machine Learning"],
-    languages: ["JavaScript", "TypeScript", "Python", "SQL", "HTML/CSS"],
+    languages: ["JavaScript", "TypeScript", "Python", "SQL"],
     frameworks: {
-        frontend: ["React", "Next.js", "Chakra UI", "Tailwind CSS"],
+        frontend: ["React", "Next.js", "UI libs", "Tailwind CSS"],
         backend: ["Node.js", "Express"],
         web3: ["Solana", "EVM", "GraphQL"]
     },
-    tools: ["Git", "Docker", "REST APIs", "DexScreener API", "Meteora API"],
-    AI_ML: ["Computer Vision", "NLP", "Data Analysis", "Pillow", "TensorFlow basics"],
+    tools: ["Git", "Docker", "REST APIs", "DexScreener", "Meteora"],
+    AI_ML: ["Computer Vision", "NLP", "Data Analysis", "Pillow", "TensorFlow"],
     databases: ["SQL", "NoSQL"],
     currently_learning: ["Advanced AI Stacking", "Cross-Validation Systems", "Solana Deep Dive"]
 };
