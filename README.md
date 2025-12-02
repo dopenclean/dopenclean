@@ -37,7 +37,7 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 
 <div align="center">
 
-**[📖 Read the Docs](https://app.wowfi.xyz/docs)** • **[🔗 Try WowFi](https://app.wowfi.xyz)** • **[💬 Join Discord](https://discord.gg/6uh25VJzyP)**
+**[📖 Read the Docs](https://docs.wowfi.xyz/docs)** • **[🔗 Try WowFi](https://app.wowfi.xyz)** • **[💬 Join Discord](https://discord.gg/6uh25VJzyP)**
 
 </div>
 
