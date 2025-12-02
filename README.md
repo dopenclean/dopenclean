@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm dopenclean
+# Hey, I'm dopenclean(Mahdi)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Powered+Crypto+Intelligence;Turning+Noise+into+Signal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator;Turning+Noise+into+Signal" alt="Typing SVG" />
 
 <br/>
 
