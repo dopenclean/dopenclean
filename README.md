@@ -31,7 +31,7 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 - Delivers 70%+ confidence-scored insights on currencies & projects
 - **100% Free** - Premium analysis for everyone
 
-**Tech Stack:** Next.js 16, React 19, TypeScript, Chakra UI v3, AI/ML Models, GraphQL
+**Tech Stack:** Next.js 16, React 19, TypeScript, AI/ML Models, GraphQL
 
 **Impact:** Leveling the playing field between institutional and retail crypto investors.
 
@@ -77,7 +77,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 - 1-hour volume tracking (≥ $10K) for real-time opportunities
 - Direct links to pools on Meteora & DexScreener
 
-**Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis
+**Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis, crafted Algorithms
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
