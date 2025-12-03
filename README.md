@@ -31,8 +31,6 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 - Delivers 70%+ confidence-scored insights on currencies & projects
 - **100% Free** - Premium analysis for everyone
 
-**Tech Stack:** Next.js 16, React 19, TypeScript, AI/ML Models, GraphQL
-
 **Impact:** Leveling the playing field between institutional and retail crypto investors.
 
 <div align="center">
@@ -81,7 +79,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-![DLMM Spider](image2.png)
+![DLMM Spider]<img src="image2.png" alt="DLMM Spider" width="300" height="200">
 
 ---
 
