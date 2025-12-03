@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/836c8987-923d-4a03-b257-cc2f33744768" /><div align="center">
 
 # Hey, I'm Mahdi (dopenclean)
 
@@ -79,7 +79,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-<img src="image2.png" alt="DLMM Spider" width="700">
+<img src="image2.png" alt="DLMM Spider" width="500">
 
 ---
 
@@ -97,6 +97,7 @@ An automated solution that fetches and shares campaign updates in Discord using 
 - Structured logging and error handling
 
 **Perfect for:** NFT projects, community engagement, promotional campaigns
+<img src="cat_eyes_logo.png" alt="9eyes bot" width="500">
 ---
 
 ### Web Applications
@@ -114,7 +115,7 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-<img src="image1.png" alt="Kalo-Myan" width="700">
+<img src="image1.png" alt="Kalo-Myan" width="500">
 
 ---
 
@@ -130,7 +131,7 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 - Clean, modern UI/UX
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
-<img src="image3.png" alt="Movie-Explorer" width="700">
+<img src="image3.png" alt="Movie-Explorer" width="500">
 
 ---
 
