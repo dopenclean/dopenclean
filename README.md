@@ -94,7 +94,8 @@ An automated solution that fetches and shares campaign updates in Discord using 
 - Interactive buttons for quick campaign access
 - Structured logging and error handling
 
-**Perfect for:** NFT projects, community engagement, promotional campaigns
+*Perfect for:* NFT projects, community engagement, promotional campaigns
+
 <img src="cat_eyes_logo.png" alt="9eyes bot" width="500">
 ---
 
