@@ -45,34 +45,20 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 
 ## Tech Stack & Expertise
 
-```javascript
-const dopenclean = {
-    primary: ["Web Development", "Web3 Development", "Machine Learning"],
-    languages: ["JavaScript", "TypeScript", "Python", "SQL"],
-    frameworks: {
-        frontend: ["React", "Next.js", "UI libs", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
-        web3: ["Solana", "EVM", "GraphQL"]
-    },
-    tools: ["Git", "Docker", "REST APIs", "DexScreener", "Meteora"],
-    AI_ML: ["Computer Vision", "NLP", "Data Analysis", "Pillow", "TensorFlow"],
-    databases: ["SQL", "NoSQL"],
-    currently_learning: ["Advanced AI Stacking", "Cross-Validation Systems", "Solana Deep Dive"]
-};
-```
-
-<div align="center">
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -94,6 +80,8 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 **Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
+
+![DLMM Spider](image2.png)
 
 ---
 
@@ -133,6 +121,8 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
+![Kalo-Myan](image1.png)
+
 ---
 
 #### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker
@@ -150,37 +140,11 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopenclean&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
+![Movie Explorer](image3.png)
 
 ---
 
 ## What I'm About
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "dopenclean"
-        self.role = "Founder @ WowFi"
-        self.focus = ["AI Systems", "Web3", "Full-Stack Development"]
-        
-    def current_mission(self):
-        return """
-        Building WowFi to democratize crypto intelligence.
-        Turning billions of noisy data points into clear, 
-        actionable insights - free for everyone.
-        """
-    
-    def philosophy(self):
-        return "Noise isn't unbeatable. It's exploitable."
-```
 
 **My Approach:**
 - **Quality over quantity** - Every project solves a real problem
@@ -198,8 +162,6 @@ class Developer:
 
 **We're not just another aggregator.** We're leveling the playing field.
 
-<div align="center">
-
 ### WowFi by the Numbers
 
 | Metric | Value |
@@ -210,8 +172,6 @@ class Developer:
 | Cost to Users | **FREE** |
 | Validation Layers | 5 (CVAS Architecture) |
 | Update Frequency | Hourly/Daily Auto-Reload |
-
-</div>
 
 ---
 
