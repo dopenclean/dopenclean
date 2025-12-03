@@ -129,6 +129,7 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 - Clean, modern UI/UX
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
+
 <img src="image3.png" alt="Movie-Explorer" width="500">
 
 ---
