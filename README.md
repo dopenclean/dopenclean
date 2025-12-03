@@ -79,8 +79,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-![DLMM Spider](image2.png)
-<img src="image2.png" alt="DLMM Spider" width="500" height="500">
+<img src="image2.png" alt="DLMM Spider" width="700">
 
 ---
 
@@ -97,15 +96,12 @@ An automated solution that fetches and shares campaign updates in Discord using 
 - Interactive buttons for quick campaign access
 - Structured logging and error handling
 
-**Tech:** Python, Discord.py, GraphQL, aiohttp, Pillow, asyncio
-
 **Perfect for:** NFT projects, community engagement, promotional campaigns
-
 ---
 
 ### Web Applications
 
-#### **[Kalo-Myan](https://kalo-myan.vercel.app)** - AI Health & Wildlife Assistant
+#### **[Kalo-Myan](https://kalo-myan.vercel.app)** - AI Health & Wildlife Assistant (5 hours MVP)
 > **Dual-purpose AI: Calorie counter + Snake identifier**
 
 A Next.js application featuring two AI-powered utilities: camera-based calorie tracking and snake species identification.
@@ -116,15 +112,13 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 - Modern, responsive UI
 - Fast image processing
 
-**Tech:** Next.js, React, AI/ML Models, Computer Vision, TypeScript
-
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-![Kalo-Myan](image1.png)
+<img src="image1.png" alt="Kalo-Myan" width="700">
 
 ---
 
-#### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker
+#### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker (2 hours MVP)
 > **Search, explore, and track movies with a sleek interface**
 
 A feature-rich movie tracking application with search capabilities, detailed overviews, and personalized tracking.
@@ -135,11 +129,8 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 - Personal tracking system
 - Clean, modern UI/UX
 
-**Tech:** Next.js, React, TypeScript, Movie API, Responsive Design
-
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
-
-![Movie Explorer](image3.png)
+<img src="image3.png" alt="Movie-Explorer" width="700">
 
 ---
 
