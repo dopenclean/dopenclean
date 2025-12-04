@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mahdi (dopenclean)
+# Hey, I'm Mahdi (dopenclean)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator" alt="Typing SVG" />
 
@@ -36,6 +36,10 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 <div align="center">
 
 **[📖 Read the Docs](https://docs.wowfi.xyz/docs)** • **[🔗 Try WowFi](https://app.wowfi.xyz)** • **[💬 Join Discord](https://discord.gg/6uh25VJzyP)**
+
+<br/>
+
+<img src="wow.gif" width="600" alt="WowFi Demo" />
 
 </div>
 
@@ -75,11 +79,11 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 - 1-hour volume tracking (≥ $10K) for real-time opportunities
 - Direct links to pools on Meteora & DexScreener
 
-**Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis, crafted Algorithms
+**Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-<img src="image2.png" alt="DLMM Spider" width="400">
+![DLMM Spider](image2.png)
 
 ---
 
@@ -96,14 +100,15 @@ An automated solution that fetches and shares campaign updates in Discord using 
 - Interactive buttons for quick campaign access
 - Structured logging and error handling
 
-*Perfect for:* NFT projects, community engagement, promotional campaigns
+**Tech:** Python, Discord.py, GraphQL, aiohttp, Pillow, asyncio
 
-<img src="cat_eyes_logo.png" alt="9eyes bot" width="400">
+**Perfect for:** NFT projects, community engagement, promotional campaigns
+
 ---
 
 ### Web Applications
 
-#### **[Kalo-Myan](https://kalo-myan.vercel.app)** - AI Health & Wildlife Assistant (5 hours MVP)
+#### **[Kalo-Myan](https://kalo-myan.vercel.app)** - AI Health & Wildlife Assistant
 > **Dual-purpose AI: Calorie counter + Snake identifier**
 
 A Next.js application featuring two AI-powered utilities: camera-based calorie tracking and snake species identification.
@@ -114,13 +119,15 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 - Modern, responsive UI
 - Fast image processing
 
+**Tech:** Next.js, React, AI/ML Models, Computer Vision, TypeScript
+
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-<img src="image1.png" alt="Kalo-Myan" width="400">
+![Kalo-Myan](image1.png)
 
 ---
 
-#### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker (2 hours MVP)
+#### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker
 > **Search, explore, and track movies with a sleek interface**
 
 A feature-rich movie tracking application with search capabilities, detailed overviews, and personalized tracking.
@@ -131,9 +138,11 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 - Personal tracking system
 - Clean, modern UI/UX
 
+**Tech:** Next.js, React, TypeScript, Movie API, Responsive Design
+
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
 
-<img src="image3.png" alt="Movie-Explorer" width="400">
+![Movie Explorer](image3.png)
 
 ---
 
@@ -175,7 +184,7 @@ I'm always interested in collaborating on innovative projects, especially in **W
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dopenclean@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dopenclean@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/581843365562154009)
+[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/581843365562155009)
 [![Twitter](https://img.shields.io/badge/Twitter-@wowfixyz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wowfixyz)
 
 </div>
