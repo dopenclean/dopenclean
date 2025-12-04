@@ -79,7 +79,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-<img src="image2.png" alt="DLMM Spider" width="500">
+<img src="image2.png" alt="DLMM Spider" width="400">
 
 ---
 
@@ -98,7 +98,7 @@ An automated solution that fetches and shares campaign updates in Discord using 
 
 *Perfect for:* NFT projects, community engagement, promotional campaigns
 
-<img src="cat_eyes_logo.png" alt="9eyes bot" width="500">
+<img src="cat_eyes_logo.png" alt="9eyes bot" width="400">
 ---
 
 ### Web Applications
@@ -116,7 +116,7 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-<img src="image1.png" alt="Kalo-Myan" width="500">
+<img src="image1.png" alt="Kalo-Myan" width="400">
 
 ---
 
@@ -133,7 +133,7 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
 
-<img src="image3.png" alt="Movie-Explorer" width="500">
+<img src="image3.png" alt="Movie-Explorer" width="400">
 
 ---
 
@@ -175,7 +175,7 @@ I'm always interested in collaborating on innovative projects, especially in **W
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dopenclean@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dopenclean@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/581843365562155009)
+[![Discord](https://img.shields.io/badge/Discord-WowFi_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/581843365562154009)
 [![Twitter](https://img.shields.io/badge/Twitter-@wowfixyz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wowfixyz)
 
 </div>
