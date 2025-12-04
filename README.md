@@ -83,7 +83,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-<img src="image2.png" width="400">
+<img src="image2.png" width="500">
 
 ---
 
@@ -123,7 +123,7 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-<img src="image1.png" width="400">
+<img src="image1.png" width="500">
 
 ---
 
@@ -142,7 +142,7 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
 
-<img src="image3.png" width="400">
+<img src="image3.png" width="500">
 
 ---
 
