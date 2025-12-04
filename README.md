@@ -123,7 +123,7 @@ A Next.js application featuring two AI-powered utilities: camera-based calorie t
 
 **Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
 
-![Kalo-Myan](image1.png)
+<img src="image1.png" width="400">
 
 ---
 
@@ -142,7 +142,7 @@ A feature-rich movie tracking application with search capabilities, detailed ove
 
 **Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
 
-![Movie Explorer](image3.png)
+<img src="image3.png" width="400">
 
 ---
 
