@@ -83,7 +83,7 @@ A Python tool that identifies high-potential liquidity pools on Meteora's Dynami
 
 **Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
 
-![DLMM Spider](image2.png)
+<img src="image2.png" width="400">
 
 ---
 
