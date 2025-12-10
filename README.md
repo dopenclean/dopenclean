@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/app.wowfi.xyz-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkgxMkwyMiAyMkgxMkwyIDEyTDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](https://wowfi.xyz)
 
 <div align="center">
-  <img src="rounded_wow4.gif" width="800" alt="WowFi Demo" />
+  <img src="wow.gif" width="800" alt="WowFi Demo" />
 </div>
 
 </div>
