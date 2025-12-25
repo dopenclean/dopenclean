@@ -109,46 +109,6 @@ An automated solution that fetches and shares campaign updates in Discord using 
 
 ---
 
-### Web Applications
-
-#### **[Kalo-Myan](https://kalo-myan.vercel.app)** - AI Health & Wildlife Assistant
-> **Dual-purpose AI: Calorie counter + Snake identifier**
-
-A Next.js application featuring two AI-powered utilities: camera-based calorie tracking and snake species identification.
-
-**Features:**
-- Real-time calorie counting from photos/camera
-- Snake identification with safety information
-- Modern, responsive UI
-- Fast image processing
-
-**Tech:** Next.js, React, AI/ML Models, Computer Vision, TypeScript
-
-**Live Demo:** [kalo-myan.vercel.app](https://kalo-myan.vercel.app)
-
-<img src="image1.png" width="500">
-
----
-
-#### **[Movie Explorer](https://movie-explorer-nu-six.vercel.app)** - Modern Movie Tracker
-> **Search, explore, and track movies with a sleek interface**
-
-A feature-rich movie tracking application with search capabilities, detailed overviews, and personalized tracking.
-
-**Features:**
-- Comprehensive movie search
-- Detailed movie information & ratings
-- Personal tracking system
-- Clean, modern UI/UX
-
-**Tech:** Next.js, React, TypeScript, Movie API, Responsive Design
-
-**Live Demo:** [movie-explorer-nu-six.vercel.app](https://movie-explorer-nu-six.vercel.app)
-
-<img src="image3.png" width="500">
-
----
-
 ## What I'm About
 
 **My Approach:**
