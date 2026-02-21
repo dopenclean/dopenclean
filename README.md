@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mahdi (dopenclean)
+# Mahdi (dopenclean)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Founder+%40+WowFi+%7C+Full-Stack+%26+Web3+Developer;Building+AI-Stacked+web3+Info+Aggregator" alt="Typing SVG" />
 
@@ -19,34 +19,6 @@
 
 ---
 
-## Currently Building
-
-### **[WowFi](https://app.wowfi.xyz)** - AI-Stacked Info Aggregator
-
-> **Cutting through the noise in crypto markets with institutional-grade analysis, free for everyone.**
-
-I'm building **WowFi**, an AI-powered information aggregator that processes **billions of data points** from social media, blogs, and hard-to-reach sources to deliver cross-validated crypto insights. Using our proprietary **CVAS (Cross-Validation Analysis Stack)**, we turn market noise into actionable intelligence.
-
-**The Problem:** Information asymmetry. Whales have curated feeds. Retail traders drown in noise, bots, and FUD.
-
-**The Solution:** A 5-layer AI validation stack that:
-- Processes billions of social posts, blogs & web sources
-- Filters out 70%+ bot/spam content automatically  
-- Cross-validates across **TVP** (Tiered Verification Pipeline) & **MRVF** (Multi-Reasoning Validation Framework)
-- Delivers 70%+ confidence-scored insights on currencies & projects
-- **100% Free** - Premium analysis for everyone
-
-**Impact:** Leveling the playing field between institutional and retail crypto investors.
-
-<div align="center">
-
-**[📖 Read the Docs](https://docs.wowfi.xyz/docs)** • **[🔗 Try WowFi](https://app.wowfi.xyz)** • **[💬 Join Discord](https://discord.gg/6uh25VJzyP)**
-
-<br/>
-
-</div>
-
----
 
 ## Tech Stack & Expertise
 
@@ -67,82 +39,10 @@ I'm building **WowFi**, an AI-powered information aggregator that processes **bi
 
 ---
 
-## Featured Projects
-
-### Web3 & Blockchain
-
-#### **[DLMM Spider](https://github.com/dopenclean/dlmm_spider)** - Best Pool Selector for Meteora
-> **AI-powered liquidity pool finder optimized for Meteora's DLMM**
-
-A Python tool that identifies high-potential liquidity pools on Meteora's Dynamic Liquidity Market Maker by applying advanced filtering across multiple APIs.
-
-**Key Features:**
-- Multi-threaded data retrieval from Meteora API & DexScreener API
-- Smart filtering: Liquidity ≤ $20K, Base Fee ≥ 2%, APR ≥ 50%, Bin Step ≥ 100
-- 1-hour volume tracking (≥ $10K) for real-time opportunities
-- Direct links to pools on Meteora & DexScreener
-
-**Tech:** Python, APIs (Meteora, DexScreener), Multi-threading, Data Analysis
-
-**Use Case:** Maximize returns for liquidity providers by finding low-liquidity, high-volume pools
-
-<img src="image2.png" width="500">
-
----
-
-#### **[9eyes Campaign Bot](https://github.com/dopenclean/9eyes_bot)** - Discord Automation for Web3
-> **Intelligent Discord bot for real-time campaign updates**
-
-An automated solution that fetches and shares campaign updates in Discord using GraphQL, featuring rich embeds and interactive elements.
-
-**Key Features:**
-- Automated real-time campaign fetching via GraphQL
-- Rich media embeds with campaign images, descriptions, and dates
-- Asynchronous performance with `aiohttp` and `asyncio`
-- Image processing pipeline using Pillow
-- Interactive buttons for quick campaign access
-- Structured logging and error handling
-
-**Tech:** Python, Discord.py, GraphQL, aiohttp, Pillow, asyncio
-
-**Perfect for:** NFT projects, community engagement, promotional campaigns
-
----
-
-## What I'm About
-
-**My Approach:**
-- **Quality over quantity** - Every project solves a real problem
-- **Open source advocate** - Sharing knowledge to elevate the community
-- **AI enthusiast** - Leveraging ML/AI to build smarter solutions
-- **Web3 believer** - Building the decentralized future
-
----
-
-## Why WowFi Matters
-
-> **The Problem:** In crypto, 70%+ of social data is bots or spam. Retail traders drown in noise while whales use curated feeds.
-
-> **My Solution:** WowFi's CVAS processes billions of posts through 5 validation layers, delivering 70%+ confidence-scored insights—completely free.
-
-**We're not just another aggregator.** We're leveling the playing field.
-
-### WowFi by the Numbers
-
-| Metric | Value |
-|--------|-------|
-| Data Sources | Social Media, Blogs, Web, Dark Corners |
-| Bot Filtering | 70%+ removal rate |
-| Confidence Score | 70%+ on all outputs |
-| Cost to Users | **FREE** |
-| Validation Layers | 5 (CVAS Architecture) |
-| Update Frequency | Hourly/Daily Auto-Reload |
-
----
 
 ## Let's Connect
 
-I'm always interested in collaborating on innovative projects, especially in **Web3**, **AI/ML**, and **full-stack development**.
+Collab in **Web3**, **AI/ML**, and **full-stack development**.
 
 <div align="center">
 
@@ -156,9 +56,7 @@ I'm always interested in collaborating on innovative projects, especially in **W
 
 <div align="center">
 
-### "Noise isn't unbeatable. It's exploitable."
-
-**Building the future, one commit at a time.**
+### "Exploit the Future"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dopenclean&color=00D9FF&style=for-the-badge)
 
@@ -167,5 +65,4 @@ I'm always interested in collaborating on innovative projects, especially in **W
 ---
 
 <div align="center">
-<sub>⭐ Star my repos if you find them useful!
 </div>
